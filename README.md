@@ -2,7 +2,7 @@
 
 **Description**
 
-**dFresh** will allow users to identify nearest water supplies, subscribe to those that pick their interest, and help leave reviews in a chatbot.
+**dFresh** will allow users to identify the nearest water supplies, subscribe to those that pick their interest, and help leave reviews in a chatbot.
 
 **App Evaluation**
 
